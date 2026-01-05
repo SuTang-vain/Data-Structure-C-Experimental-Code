@@ -1,0 +1,65 @@
+# 编译生成的可执行文件
+*.out
+binary_tree
+graph
+linear_list
+stack_queue
+
+# 编译产生的目录
+*.dSYM/
+*.app/
+
+# 对象文件
+*.o
+*.obj
+*.so
+*.dylib
+
+# 静态库
+*.a
+*.lib
+
+# 目标文件
+*.exe
+*.dll
+
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows 系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Vim 编辑器
+*.swp
+*.swo
+*~
+
+# Emacs 编辑器
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# 备份文件
+*.bak
+*.tmp
+*.orig
+
+# 日志文件
+*.log
+
+# 临时目录
+tmp/
+temp/
